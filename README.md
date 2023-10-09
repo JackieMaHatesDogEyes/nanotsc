@@ -8,3 +8,4 @@ Just run *nanotsc* followed the names of the files you want to compile
 
 # To-Do:
 * add a flag to enable/disable error checking (currently doesn't check for errors (uses unwrap_unchecked))
+* add WebAssembly support
